@@ -19,8 +19,8 @@ Liko uses a number of open source projects to work properly:
 - [CSS] - good for designing
 - [Bootstrap4] - provides good features for frontend
 
-## Images of Working Site on Local Host
-
+<!-- ## Images of Working Site on Local Host
+ -->
  
 
 
