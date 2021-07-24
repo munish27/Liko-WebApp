@@ -1,6 +1,6 @@
 # Liko-A WebApp
 ## About
-This application is made by using **HTML**, **CSS**, **Bootstrap4**, **Python**, **Django Framework**. It is deployed on [Heroku](https://www.heroku.app.com/)
+This application is made by using **HTML**, **CSS**, **Bootstrap4**, **Python**, **Django Framework**.
 
 ## Features
 
